@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Reproducible Research - Peer Assessment 1
 ========================================================
 
@@ -135,6 +136,8 @@ library(lattice)
 xyplot(steps~interval|factor(category),type="l",col.line="blue",data=dataframe4,layout=c(1,2))
 ```
 =======
+=======
+>>>>>>> c0525389ea6e8a244d4766efa36364c84cc1fff8
 ---
 title: "Reproducible Research: Peer Assessment 1"
 output: 
@@ -160,4 +163,7 @@ output:
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
+<<<<<<< HEAD
+>>>>>>> c0525389ea6e8a244d4766efa36364c84cc1fff8
+=======
 >>>>>>> c0525389ea6e8a244d4766efa36364c84cc1fff8
